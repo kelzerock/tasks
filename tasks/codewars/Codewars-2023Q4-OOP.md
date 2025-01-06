@@ -37,9 +37,6 @@ Don't forget to change your nickname on Codewars. The nickname will be displayed
 Total: 1 \* 5 + 4 \* 6 + 5 \* 3 + 8 \* 1 = 52
 
 **Total sum - 52 points.**
-
-## Materials:
-
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
 - [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
